@@ -5,4 +5,4 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MoonHKLee)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 백준 알고리즘 티어
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=mf3110)](https://solved.ac/kinetic27)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=mf3110)](https://solved.ac/mf3110)
