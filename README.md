@@ -7,20 +7,29 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoonHKLee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- markdownlint-disable MD033 -->
-<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
   <img
     src="https://github-readme-stats.vercel.app/api?username=MoonHKLee&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"
     alt="Github Stats Card"
     height="160"
 /></a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
+      </td>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=MoonHKLee&hide=css,tex&hide_title=true&layout=compact&langs_count=8&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"
     alt="Top Languages Card"
     height="160"
 /></a>
-
+      </td>
+    </tr>
+  </tbody>
+</table>
 <table>
   <tbody>
     <tr>
