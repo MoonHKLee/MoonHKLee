@@ -48,18 +48,11 @@
         /></a>
       </td>
     </tr>
-    <tr>
-      <td colspan="2">
-        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-          <img
-            src="https://activity-graph.herokuapp.com/graph?username=MoonHKLee&bg_color=282c34&color=f0eee9&line=5f4b8b&point=00abc0&hide_border=true&hide_title=true"
-            alt="GitHub Activity Graph"
-        /></a>
-      </td>
-    </tr>
   </tbody>
 </table>
-<!-- markdownlint-enable -->
+<!-- markdownlint-enable -->   
+   
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moonhklee)](https://github.com/ashutosh00710/github-readme-activity-graph)   
 
 <!-- markdownlint-disable MD033 -->
 <!-- prettier-ignore-start -->
