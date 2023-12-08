@@ -1,7 +1,5 @@
  # **_LEE MOON HYUK_**
 
-[![Resume](https://img.shields.io/static/v1?style=for-the-badge&logoColor=ffffff&color=000000&logo=notion&label=&message=Resume)](https://moonhklee.notion.site/MUTO-Try-Everyday-c61ca7650eff4333a939fe812d0b2f3e)
-[![Blog](https://img.shields.io/static/v1?style=for-the-badge&logoColor=ffffff&color=00c7b7&logo=netlify&label=&message=Blog)](https://leemoono.tistory.com/)
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logoColor=ffffff&color=0077b5&logo=linkedin&label=&message=LinkedIn)](https://www.linkedin.com/in/문혁-이-51a6441b9)
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&logoColor=ffffff&color=ea4335&logo=gmail&label=&message=Gmail)](mailto:mf311110@gmail.com)   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoonHKLee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
